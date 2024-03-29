@@ -3,3 +3,6 @@
 
 
 # The follwing is the list of projects (in order).
+
+## 1. GreetingCard
+Extremely simple app (from Google's Android Basics with Compose course) that displays text alongside some minor changes (like containers and colors). 
