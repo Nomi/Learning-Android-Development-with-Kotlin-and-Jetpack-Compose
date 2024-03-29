@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GreetingText(message = "Happy Birthday Sam!", from="Emma", modifier = Modifier.padding(8.dp))
+                    GreetingText(message = "Happy Birthday Bob!", from = "Wendy", modifier = Modifier.padding(8.dp))
                 }
             }
         }
@@ -51,7 +51,7 @@ fun GreetingText(message: String, from:String, modifier: Modifier = Modifier) {
 //        verticalArrangement = Arrangement.Center,
     ) {
         Box(
-            modifier = modifier.weight(0.9F).fillMaxWidth()
+            modifier = modifier.weight(0.8F).fillMaxWidth()
         )
         {
             Text(
@@ -73,7 +73,7 @@ fun GreetingText(message: String, from:String, modifier: Modifier = Modifier) {
 
             )
         }
-        Box(modifier=modifier.padding(15.dp).weight(0.1F).fillMaxWidth())
+        Box(modifier=modifier.weight(0.2F).fillMaxWidth())
         {
             Text(
                 text="❤",
@@ -88,7 +88,7 @@ fun GreetingText(message: String, from:String, modifier: Modifier = Modifier) {
                 fontStyle = FontStyle.Italic,
                 fontWeight = FontWeight.ExtraLight,
                 textAlign = TextAlign.Right,
-                color = Color.DarkGray,
+                color = MaterialTheme.colorScheme.secondary,//Color.DarkGray,
 //                modifier = Modifier.align(alignment = Alignment.End)
                 modifier = modifier.align(alignment = Alignment.BottomEnd)
                     //.padding(8.dp)
@@ -102,7 +102,7 @@ fun GreetingText(message: String, from:String, modifier: Modifier = Modifier) {
 @Composable
 fun BirthdayCardPreview() {
     HappyBirthdayTheme {
-        GreetingText(message = "Happy Birthday Bob!", from = "Wendy")
+        GreetingText(message = "Happy Birthday Bob!", from = "Wendy", modifier = Modifier.padding(8.dp))
     }
 }
 
