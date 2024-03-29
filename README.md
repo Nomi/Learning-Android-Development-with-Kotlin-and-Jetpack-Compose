@@ -6,3 +6,6 @@
 
 ## 1. GreetingCard
 Extremely simple app (from Google's Android Basics with Compose course) that displays text alongside some minor changes (like containers and colors). 
+
+## 2. Happy Birthday (Birthday Card app)
+Create a Birthday Card app. (from Google's Android Basics with Compose course)
