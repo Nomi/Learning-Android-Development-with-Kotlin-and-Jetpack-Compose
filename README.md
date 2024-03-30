@@ -10,4 +10,6 @@ Extremely simple app (from Google's Android Basics with Compose course) that dis
 ## 2. Happy Birthday (Birthday Card app)
 Create a Birthday Card app. (based on Google's Android Basics with Compose course with a lot of my own modifications)
 
-<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/HappyBirthday/HappyBirthdayPlain_DarkMode.jpg" width="360">
+| Minimal | Fancy |
+|:---:|:---:|
+| <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/HappyBirthday/HappyBirthdayPlain_DarkMode.jpg" height="480"> | <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/HappyBirthday/HappyBirthdayImage_DarkMode.jpg" height="480"> |
