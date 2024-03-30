@@ -2,21 +2,8 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="BirthdayCardPreview - Birthday Card Preview">
-        <State>
-          <runningDeviceTargetSelectedWithDropDown>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="SERIAL_NUMBER" />
-                  <value value="RZCT90DMXEH" />
-                </Key>
-              </deviceKey>
-            </Target>
-          </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-03-29T20:03:33.629835700Z" />
-        </State>
+      <entry key="BirthdayCardPreview">
+        <State />
       </entry>
       <entry key="GreetingPreview">
         <State />
