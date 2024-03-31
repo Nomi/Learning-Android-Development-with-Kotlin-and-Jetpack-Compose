@@ -5,12 +5,18 @@
 # Course: Android Basics with Compose
 Projects ordered from newest to oldest.
 
-## 2. Happy Birthday (Birthday Card app)
+## Unit 1: Your first Android app
+
+### Build a Basic Layout
+#### 2. Happy Birthday (Birthday Card app)
+
 Create a Birthday Card app. (based on Google's Android Basics with Compose course with a lot of my own modifications)
 
 | Minimal | Fancy |
 |:---:|:---:|
 | <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/HappyBirthdayPlain_DarkMode.jpg" height="480"> | <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/HappyBirthdayImage_DarkMode.jpg" height="480"> |
 
-## 1. GreetingCard
+### Setup Android Studio
+#### 1. GreetingCard
+
 Extremely simple app (from Google's Android Basics with Compose course) that displays text alongside some minor changes (like containers and colors). 
