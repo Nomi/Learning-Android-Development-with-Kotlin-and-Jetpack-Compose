@@ -8,6 +8,9 @@ Projects ordered from newest to oldest.
 ## Unit 1: Your first Android app
 
 ### Build a Basic Layout
+#### 5. ComposeQuadrant
+#### 4. TaskManager
+#### 3. ComposeArticle
 #### 2. Happy Birthday (Birthday Card app)
 
 Create a Birthday Card app. (based on Google's Android Basics with Compose course with a lot of my own modifications)
