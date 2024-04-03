@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="photo_content_description">A photo of the person this business card belongs to.</string>
+    <string name="full_name">John Doe</string>
+    <string name="current_title">Software Engineer (Full-Stack)</string>
+    <string name="phone_number">+1 (000) 000-0000</string>
+    <string name="social_media">\@JohnDoe</string>
+    <string name="email_address">JohnDoe@example.xmpl</string>
+    <string name="phone_number_icon">Phone number icon</string>
+    <string name="social_media_username_icon">Social media username icon</string>
+</resources>
