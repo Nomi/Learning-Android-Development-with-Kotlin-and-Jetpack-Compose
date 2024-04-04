@@ -25,7 +25,11 @@ Create an app that serves as a business card.
 // https://developer.android.com/develop/ui/compose/modifiers#extracting_and_reusing_scoped_modifiers
  */
 ```
+<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/6-BusinessCard/tumbnail_businesscard.jpg" height="480">
+
 #### 5. ComposeQuadrant
+<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/5-ComposeQuadrant/tumbnail_composequadrant.jpg" height="480">
+
 #### 4. TaskManager
 #### 3. ComposeArticle
 #### 2. Happy Birthday (Birthday Card app)
@@ -34,7 +38,7 @@ Create a Birthday Card app. (based on Google's Android Basics with Compose cours
 
 | Minimal | Fancy |
 |:---:|:---:|
-| <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/HappyBirthdayPlain_DarkMode.jpg" height="480"> | <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/HappyBirthdayImage_DarkMode.jpg" height="480"> |
+| <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/HappyBirthdayPlain_DarkMode.jpg" height="480"> | <img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/2-HappyBirthday/thumbnail_HappyBirthdayImage_DarkMode.jpg" height="480"> |
 
 ### Setup Android Studio
 #### 1. GreetingCard
