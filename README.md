@@ -1,5 +1,15 @@
 # Learning Android development using Kotlin and Jetpack Compose in various projects.
- At least for the intial period, this course will follow Google's *[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)* course.
+ At least for the intial period, this course will follow **Google's *[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)* course**.
+
+**Some additional resources for learning:**
+- https://developer.android.com
+- [Google's "Material Design" Resources](https://material.io/) --- ***\[IMPORTANT\] Useful for all kinds of design (web, mobile, etc.). Contains all kinds of resources (docs, tutorials, etc).***
+- [Jetpack Compose Docs](https://developer.android.com/develop/ui/compose/documentation) --- ***\[IMPORTANT\] Docs are always important..***
+- [Android API Reference / Docs](https://developer.android.com/reference) --- ***\[IMPORTANT\] Docs are always important..***
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) --- ***\[IMPORTANT\] Contains various useful things like tutorials and sample projects for various usecases of Kotlin (make sure to read through the "Kotlin Overview" section at least once) and more.***
+- [Google's documentation for developing Android apps with Kotlin](https://developer.android.com/kotlin/get-started) --- ***\[IMPORTANT\] Courses and such for getting started. Check them out at least once.***
+- [Developing cross-platform mobile applications, see Get started with Kotlin Multiplatform for Android and iOS](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-getting-started.html) --- Might want to check it out at least once.
+- [KotlinAndroid.com - a website that covers topics related to Kotlin programming, and building Android applications using Kotlin.](https://kotlinandroid.org/)
 
 ### ★ Note: particularly noteworthy, important, or impresssive project titles will be prefixed with a "★" in this README.md file.
 e.g. **" 117. MasterChief"** with the markdown looking somewhat like `#### ★ 117. MasterChief`.
