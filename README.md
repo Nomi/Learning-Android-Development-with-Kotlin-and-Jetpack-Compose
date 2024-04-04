@@ -1,6 +1,16 @@
 # Learning Android development using Kotlin and Jetpack Compose in various projects.
  At least for the intial period, this course will follow Google's *[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)* course.
 
+### ★ Note: particularly noteworthy, important, or impresssive project titles will be prefixed with a "★" in this README.md file.
+e.g. **" 117. MasterChief"** with the markdown looking somewhat like `#### ★ 117. MasterChief`.
+
+Just by the way, I'm leaving alternative versions of the star here that might be useful for future or perhaps one of these might replace the current one (though that is also included in the list):
+
+`★, ☆, ✬, ✫, ✭, ✯, ✰, ✵, ⯪, ⯫, ⯩, ⯨, ⚝, ⭐, 🌟, ✨, 🌠, 𓇻`
+
+Here's how they look outside of the code block (witih bold font style):
+
+**★, ☆, ✬, ✫, ✭, ✯, ✰, ✵, ⯪, ⯫, ⯩, ⯨, ⚝, ⭐, 🌟, ✨, 🌠, 𓇻**.
 
 # Course: Android Basics with Compose
 Projects ordered from newest to oldest.
