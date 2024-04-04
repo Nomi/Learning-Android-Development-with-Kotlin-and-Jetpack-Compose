@@ -25,10 +25,10 @@ Create an app that serves as a business card.
 // https://developer.android.com/develop/ui/compose/modifiers#extracting_and_reusing_scoped_modifiers
  */
 ```
-<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/6-BusinessCard/tumbnail_businesscard.jpg" height="480">
+<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/6-BusinessCard/thumbnail_businesscard.jpg" height="480">
 
 #### 5. ComposeQuadrant
-<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/5-ComposeQuadrant/tumbnail_composequadrant.jpg" height="480">
+<img src="https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/blob/main/.screenshots_AppPreviews/.screenshots.Course--Android-Basic-with-Compose/5-ComposeQuadrant/thumbnail_composequadrant.jpg" height="480">
 
 #### 4. TaskManager
 #### 3. ComposeArticle
