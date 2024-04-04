@@ -1,3 +1,5 @@
+#### Note that the sub-directorires also contain "README.md"s with URLs/web based resources, etc.
+
 # Directory structure explained:
 
 
