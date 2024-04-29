@@ -1,7 +1,14 @@
 # Learning Android development using Kotlin and Jetpack Compose in various projects.
  At least for the intial period, this course will follow **Google's *[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)* course**.
 
-**Some additional resources for learning:**
+
+#### My notes & resources:
+ - [Exceptionally nifty or extra imporant resources (+ it's parent directory of the other two)](https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/tree/main/.SomeImportantResourcesAndAdvice)
+ - [Code related](https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/tree/main/.SomeImportantResourcesAndAdvice/Code%20related)
+ - [Design related](https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/tree/main/.SomeImportantResourcesAndAdvice/Design%20related)
+
+
+#### Some additional general resources for learning:
 - https://developer.android.com
 - [Google's "Material Design" Resources](https://material.io/) --- ***\[IMPORTANT\] Useful for all kinds of design (web, mobile, etc.). Contains all kinds of resources (docs, tutorials, etc).***
 - [Jetpack Compose Docs](https://developer.android.com/develop/ui/compose/documentation) --- ***\[IMPORTANT\] Docs are always important..***
