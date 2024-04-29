@@ -1,3 +1,5 @@
++ [[Link] Go back to the base directory of the repo.](https://github.com/Nomi/Learning-Android-Development-with-Kotlin-and-Jetpack-Compose/)
+
 #### Note that the sub-directorires also contain "README.md"s with URLs/web based resources, etc.
 
 # Directory structure explained:
